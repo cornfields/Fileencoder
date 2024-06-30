@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fileencoder", "Fileencoder\Fileencoder.csproj", "{B5F75D0A-09C9-4406-AFE7-2A035D59162F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Debug|x64.ActiveCfg = Debug|x64
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Debug|x64.Build.0 = Debug|x64
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Release|x64.ActiveCfg = Release|x64
+		{B5F75D0A-09C9-4406-AFE7-2A035D59162F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7019637F-E112-442A-A11A-C88CC131440C}
+	EndGlobalSection
+EndGlobal
