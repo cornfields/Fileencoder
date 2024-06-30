@@ -5,4 +5,8 @@ This application encodes files from a selected folder into Base64 format and gen
 2. Generate Script: Click "Generate PowerShell Script" to create the script.
 3. Execute Script: Copy and run the script to recreate the files and folder structure.
 
+![image001](https://github.com/cornfields/Fileencoder/assets/145692346/5a86351a-8d8d-4737-bdad-98e773462615)
+
 Created PowerShell script code snippet.
+
+![image002](https://github.com/cornfields/Fileencoder/assets/145692346/34a9cc70-31eb-4daa-8add-2c71d5e61986)
