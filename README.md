@@ -1,3 +1,5 @@
+# **Fileencoder**
+
 This application encodes files from a selected folder into Base64 format and generates a PowerShell script to decode and recreate the files, maintaining the original directory structure.
 
 ## Usage
